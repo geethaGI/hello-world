@@ -31,8 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, very Happy  happy Learning </h1>
-   <h1>lecture 20 testing build trigger</h1>
+   <h1>lecture 31 testing build trigger</h1>
 
   
 </form>
