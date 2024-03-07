@@ -32,7 +32,7 @@
   </div>
 
    <h1>lecture 31 testing build trigger automatic deployed by jenkins to docker container !</h1>
-   <h1>lecture 39 : testing jenkins to docker image creation through ansible</h1>
+   <h1>lecture 39 : testing jenkins to docker image creation through ansible!</h1>
 
   
 </form>
