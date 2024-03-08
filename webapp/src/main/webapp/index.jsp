@@ -30,13 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-   <h1>lecture 31 testing build trigger automatic deployed by jenkins to docker container !</h1>
-   <h1>lecture 39 : testing jenkins to docker image creation through ansible!</h1>
-   <h1>lecture 42: Jenkins to dockerhost - automated completely using maven for build, ansible for docker!</h1>
-   <h1>lecture 59</h1>
-
-  
+  <h1>Happy Ending</h1>
 </form>
 
 
